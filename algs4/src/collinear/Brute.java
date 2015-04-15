@@ -1,7 +1,8 @@
 /*
 	coursera: algs4-week1 assignment version1.0
 	Git is free software distributed under the GPL.
-	the second modify to add 
+	the second modify to add
+	create a new branch is so quick, this modification is only in dev.
  */
 package collinear;
 
